@@ -1,0 +1,4 @@
+npm.js website----------------all package
+react-native------------------app document
+appwrite----------------------auth
+react-dev---------------------context
